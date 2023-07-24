@@ -13,11 +13,11 @@ import { projects } from "../../../projects";
 export function Project({ project }) {
   return (
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
-      <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
+      <Card sx={{ maxWidth: 450 }} style={{ backgroundColor: "floralwhite" }}>
         <CardMedia
           component="img"
           alt="displayed projects with associated links"
-          height="140"
+          height="200"
           image={project.imageLink}
         />
         <CardContent>
