@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import hero from "../../../images/Me.jpg";
+import Me from "../../../images/Me.jpg";
 import CardMedia from "@mui/material/CardMedia";
 
 export default function About() {
@@ -16,7 +16,7 @@ export default function About() {
             margin: "0 auto",
             paddingTop: "20px",
           }}
-          image={hero}
+          image={Me}
           alt="About Me"
         />
       </div>
