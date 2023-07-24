@@ -1,12 +1,12 @@
 /* Portfolio styles */
 
-div#project {
+/* div#project {
   display: flex;
   height: 23vh;
   background-image: url(../../../images/Me.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-}
+} */
 
 #project:hover {
   filter: blur(4px);
