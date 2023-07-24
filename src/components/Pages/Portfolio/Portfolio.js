@@ -9,14 +9,13 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { projects } from "../../../projects";
 
-// Function that renders the portfolio cards, grid, buttons & exports
 export function Project({ project }) {
   return (
     <Grid item xs={4} style={{ display: "flex", justifyContent: "center" }}>
       <Card sx={{ maxWidth: 345 }} style={{ backgroundColor: "floralwhite" }}>
         <CardMedia
           component="img"
-          alt="displayed projects with associated links"
+          alt="picture of the projects with links"
           height="140"
           image={project.imageLink}
         />
@@ -51,7 +50,6 @@ export function Project({ project }) {
   );
 }
 
-// Function/component written to map over projects.js array
 export default function Work() {
   return (
     <div style={{ paddingLeft: "50px", paddingRight: "50px" }}>
