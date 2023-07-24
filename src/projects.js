@@ -49,8 +49,10 @@ export const projects = [
   },
   {
     projectTitle: "Work Day Scheduler",
-    description: "A calendar application that allows a user to save events for each hour of the work day. ",
-    imageLink: "",
+    description:
+      "A calendar application that allows a user to save events for each hour of the work day. ",
+    imageLink:
+      "https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Work_day.png",
     liveLink: "https://barry25000.github.io/Work-Day-Scheduler/",
     gitHub: "https://github.com/Barry25000/Work-Day-Scheduler",
   },
