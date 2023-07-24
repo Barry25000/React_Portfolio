@@ -1,18 +1,15 @@
-// Imports
 import React, { useState } from "react";
 import { TextField, dividerClasses } from "@mui/material";
 import { Button, MenuItem } from "@mui/material";
 import Stack from "@mui/material/Stack";
 import "./Contact.css";
 
-// Exports
 export default function Contact() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
 
-  // Validates name
   const validateName = (e) => {
     console.log(e);
     const { name, value } = e.target;
@@ -28,7 +25,6 @@ export default function Contact() {
     }
   };
 
-  // Validates email
   const validateEmail = (e) => {
     e.preventDefault();
     console.log(e);
@@ -51,7 +47,6 @@ export default function Contact() {
     }
   };
 
-  // Validates message
   const validateMessage = (e) => {
     console.log(e);
     const { name, value } = e.target;
@@ -67,7 +62,6 @@ export default function Contact() {
     }
   };
 
-  // Renders contact form
   return (
     <>
       <div>
@@ -139,18 +133,3 @@ export default function Contact() {
     </>
   );
 }
-
-// Below is a possible functional Google Form that can be implemented to receive contact info and messages without a backend set-up
-
-// <div style={{ display: "flex", justifyContent: "center" }}>
-//   <iframe
-//     src="https://docs.google.com/forms/d/e/1FAIpQLScysYfJHsIA9Wvf5bYfiF_yPb5QtSX9wwZCdlxV42WoCxT_tQ/viewform?embedded=true"
-//     width="640"
-//     height="678"
-//     frameborder="0"
-//     marginheight="0"
-//     marginwidth="0"
-//   >
-//     Loading…
-//   </iframe>
-// </div>;

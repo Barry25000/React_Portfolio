@@ -1,10 +1,8 @@
-//Imports
 import React from "react";
 import "./About.css";
 import hero from "../../../images/Me.jpg";
 import CardMedia from "@mui/material/CardMedia";
 
-// Function that renders the about page & exports
 export default function About() {
   return (
     <>

@@ -49,12 +49,11 @@ export const projects = [
   },
 
   //   {
-  //     projectTitle: "My First Website",
-  //     description:
-  //       "The first website I designed and deployed to the worldwide web. My web development journey started right here!",
+  //     projectTitle: "",
+  //     description:  "",
   //     imageLink:
-  //       "https://user-images.githubusercontent.com/120127903/250159711-eb5907ee-46ca-4291-8a3d-89e8dd43df4f.png",
-  //     liveLink: "https://rmessett15.github.io/My-First-Website/",
-  //     gitHub: "https://github.com/rmessett15/My-First-Website",
+  //       "",
+  //     liveLink: "",
+  //     gitHub: "",
   //   },
 ];
