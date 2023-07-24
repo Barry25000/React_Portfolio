@@ -6,7 +6,7 @@ export const projects = [
     description:
       "A full-stack web application for searching recipes. Find your next meal here!",
     imageLink:
-      "https://github.com/Barry25000/portfolio/blob/main/assets/images/recipe_voyage.png",
+      "https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Recipe_voyage.png",
     liveLink: "https://recipevoyage-6c0c7512867d.herokuapp.com/",
     gitHub: "https://github.com/oshkoshbagoshh/recipe-voyage",
   },
@@ -48,11 +48,6 @@ export const projects = [
       "https://github.com/Barry25000/Server_Side_Api_challenge_6/tree/main",
   },
 
-
-
-
-
-  
   //   {
   //     projectTitle: "My First Website",
   //     description:
