@@ -29,17 +29,17 @@ export default function About() {
           pushing boundaries both in my professional and personal life.
         </p>
         <p id="p-about">
-          With a degree in Electrical Engineering coupled with my work
-          expierence, I have a strong foundation in analytical thinking,
-          problem-solving, and attention to detail.{" "}
+          With a B.S. in Electrical Engineering coupled with my work expierence,
+          I have a strong foundation in analytical thinking, problem-solving,
+          and attention to detail.{" "}
         </p>
         <p id="p-about">
-          Outside of the software development world, I find great joy in
-          adrenaline-seeking activities that push my limits. Whether it's rock
-          climbing, skiing, scuba diving, or skydiving, I thrive on the
-          excitement and challenges they present. This mindset of constantly
-          seeking new experiences translates into my approach to problem-solving
-          and innovation in the tech field.
+          Outside of software development, I spend my time outdoors, wheather it
+          is camping, boating, skiing or exploring new areas, I am an
+          adrenaline-seeker looking to push my comfort zone. I thrive on
+          excitement and new challenges. My mindset of constantly seeking new
+          experiences along with thinking outside of the box, shapes my approach
+          with problem-solving.
         </p>
         <p id="p-about">
           As a travel enthusiast, I am always eager to explore new places and
@@ -56,7 +56,7 @@ export default function About() {
           latest tech trends, exchanging ideas on full stack development, or
           simply sharing stories from our adrenaline-fueled adventures. I'm
           eager to connect, learn, and grow alongside fellow enthusiasts in the
-          tech community.
+          software community.
         </p>
       </div>
     </>

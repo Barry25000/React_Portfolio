@@ -4,7 +4,7 @@ export const projects = [
     description:
       "A full-stack web application for searching recipes. Find your next meal here!",
     imageLink:
-      "https://github.com/Barry25000/React_Portfolio/blob/3fa0ee571d4f7894118f333c49994f749a25e887/src/images/Recipe_voyage.png",
+      "https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Recipe_voyage.png",
     liveLink: "https://recipevoyage-6c0c7512867d.herokuapp.com/",
     gitHub: "https://github.com/oshkoshbagoshh/recipe-voyage",
   },
@@ -22,7 +22,7 @@ export const projects = [
     description:
       "A full-stack web application where users can create and interact with content related to tech.",
     imageLink:
-      "https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Tech_blog.png",
+      "https://github.com/Barry25000/React_Portfolio/blob/9a6dc8e42beab72a2b7f5b9a43c13a93790010a3/src/images/Recipe_voyage.png",
     liveLink: "https://vast-taiga-89903-d0aef835372a.herokuapp.com/login",
     gitHub: "https://github.com/Barry25000/Tech_Blog",
   },
