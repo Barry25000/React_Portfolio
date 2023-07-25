@@ -56,7 +56,7 @@ barryengler@gmail.com <br>
 <br>
 
 REPO Screenshot <br>
-![Repo Screenshot](
+![Repo Screenshot](https://github.com/Barry25000/React_Portfolio/blob/main/src/images/REPO_Screenshot.jpg) <br>
 
 # Getting Started with Create React App
 
