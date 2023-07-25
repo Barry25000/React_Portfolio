@@ -4,7 +4,7 @@ export const projects = [
     description:
       "A full-stack web application for searching recipes. Find your next meal here!",
     imageLink:
-      "https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Recipe_voyage.png",
+      "https://github.com/Barry25000/React_Portfolio/blob/3fa0ee571d4f7894118f333c49994f749a25e887/src/images/Recipe_voyage.png",
     liveLink: "https://recipevoyage-6c0c7512867d.herokuapp.com/",
     gitHub: "https://github.com/oshkoshbagoshh/recipe-voyage",
   },
