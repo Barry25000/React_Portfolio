@@ -1,8 +1,6 @@
-// Array of projects to be rendered on portfolio page
-
 export const projects = [
   {
-    projectTitle: "Recipe Voyage", //good
+    projectTitle: "Recipe Voyage",
     description:
       "A full-stack web application for searching recipes. Find your next meal here!",
     imageLink:
@@ -11,7 +9,7 @@ export const projects = [
     gitHub: "https://github.com/oshkoshbagoshh/recipe-voyage",
   },
   {
-    projectTitle: "What's That Noise", //good
+    projectTitle: "What's That Noise",
     description:
       "A client-side web application for finding live entertainment, sports and theater.",
     imageLink:
@@ -20,7 +18,7 @@ export const projects = [
     gitHub: "https://github.com/MattChiaro/whats-that-noise",
   },
   {
-    projectTitle: "Tech Blog", //good
+    projectTitle: "Tech Blog",
     description:
       "A full-stack web application where users can create and interact with content related to tech.",
     imageLink:
@@ -29,7 +27,7 @@ export const projects = [
     gitHub: "https://github.com/Barry25000/Tech_Blog",
   },
   {
-    projectTitle: "Code Quiz", //good
+    projectTitle: "Code Quiz",
     description:
       "A simple web-application where users can come test their knowledge about coding. Find out if you're up to the test.",
     imageLink:
@@ -38,7 +36,7 @@ export const projects = [
     gitHub: "https://github.com/Barry25000/Web-API-s-Code-Quiz-Challenge-4-",
   },
   {
-    projectTitle: "Weather Dashboard", //good
+    projectTitle: "Weather Dashboard",
     description:
       "Using third-party and server-side apis to bring clients live weather updates and future forecasts from anywhere in the world.",
     imageLink:
