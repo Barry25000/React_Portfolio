@@ -58,6 +58,9 @@ barryengler@gmail.com <br>
 REPO Screenshot <br>
 ![Repo Screenshot](https://github.com/Barry25000/React_Portfolio/blob/main/src/images/REPO_Screenshot.jpg) <br>
 
+Live Screenshot <br>
+![Live Screenshot](https://github.com/Barry25000/React_Portfolio/blob/main/src/images/Live_screenshot.jpg) <br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
