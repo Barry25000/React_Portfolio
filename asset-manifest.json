@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.f44a269f.css",
-    "main.js": "/React_Portfolio/static/js/main.cdac4f41.js",
+    "main.css": "/React_Portfolio/static/css/main.8ceff44d.css",
+    "main.js": "/React_Portfolio/static/js/main.6eed3fb3.js",
     "static/js/787.a2cb61a6.chunk.js": "/React_Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Recipe_voyage.png": "/React_Portfolio/static/media/Recipe_voyage.c919fc3170719d608682.png",
     "static/media/Whats_that_noise.png": "/React_Portfolio/static/media/Whats_that_noise.593181f1c975cb3165c8.png",
@@ -12,12 +12,12 @@
     "static/media/Weather_dashboard.png": "/React_Portfolio/static/media/Weather_dashboard.87021189d02a69da13d7.png",
     "static/media/Tech_blog.png": "/React_Portfolio/static/media/Tech_blog.ec5329e694933e1aaeca.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.f44a269f.css.map": "/React_Portfolio/static/css/main.f44a269f.css.map",
-    "main.cdac4f41.js.map": "/React_Portfolio/static/js/main.cdac4f41.js.map",
+    "main.8ceff44d.css.map": "/React_Portfolio/static/css/main.8ceff44d.css.map",
+    "main.6eed3fb3.js.map": "/React_Portfolio/static/js/main.6eed3fb3.js.map",
     "787.a2cb61a6.chunk.js.map": "/React_Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f44a269f.css",
-    "static/js/main.cdac4f41.js"
+    "static/css/main.8ceff44d.css",
+    "static/js/main.6eed3fb3.js"
   ]
 }
