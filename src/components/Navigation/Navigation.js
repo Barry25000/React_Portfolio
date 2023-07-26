@@ -6,12 +6,11 @@ import useTab from "@mui/base/useTab";
 
 const pages = ["About", "Portfolio", "Contact", "Resume"];
 
-// Function that renders nav links and calls setCurrentPage allowing state to be changed
 function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
   return (
     <ul
       className="nav nav-tabs"
-      style={{ paddingRight: "35px", paddingTop: "22px" }}
+      style={{ paddingRight: "55px", paddingTop: "30px" }}
     >
       <li className="nav-item">
         <a

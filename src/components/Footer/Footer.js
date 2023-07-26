@@ -2,8 +2,8 @@ import React from "react";
 import Grid from "@mui/material/Grid";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import TwitterIcon from "@mui/icons-material/Twitter";
 import EmailIcon from "@mui/icons-material/Email";
+// import TwitterIcon from "@mui/icons-material/Twitter";
 import "./Footer.css";
 
 const Footer = () => {
@@ -36,14 +36,15 @@ const Footer = () => {
               (window.location.href = "https://github.com/Barry25000")
             }
           />
-          <TwitterIcon
+           {/* <TwitterIcon
             id="icon"
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
             onClick={(event) =>
               (window.location.href = "https://twitter.com/barryengler")
             }
-          />
+          />  */}
+          
           <EmailIcon
             id="icon"
             className="pop-on-hover"

@@ -7,11 +7,11 @@
 
 #nav-link:visited {
   text-decoration: none;
-  color: white;
+  color: rgb(231, 207, 162);
 }
 
 #nav-link.active {
-  color: #b9742f;
+  color: rgb(238, 110, 110);
   display: flex;
   justify-content: end;
 }
@@ -19,6 +19,7 @@
 #nav-link {
   display: flex;
   justify-content: end;
+  font-size: 30px;
 }
 
 @media (max-width: 589px) {

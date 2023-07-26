@@ -1,18 +1,16 @@
 import React from "react";
-// import resume1 from "../../../images/resume1.png"
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import PdfFile from "../../../Resume.pdf";
 import "./Resume.css";
 
-// Function that renders the downloadable resume, proficiencies & exports
 export default function Resume() {
   return (
     <Box>
       <div>
         <a
           href={PdfFile}
-          download="Barry Engler Resumé"
+          download="Barry Engler Resume"
           target="_blank"
           style={{
             display: "flex",
@@ -32,9 +30,9 @@ export default function Resume() {
             textDecoration: "underline",
           }}
         >
-          Front-end Proficiencies
+          Front-End Proficiencies
         </h2>
-        <p
+        <p id='p-resume'
           style={{
             display: "flex",
             justifyContent: "center",
@@ -56,9 +54,9 @@ export default function Resume() {
             textDecoration: "underline",
           }}
         >
-          Back-end Proficiencies
+          Back-End Proficiencies
         </h2>
-        <p
+        <p id='p-resume'
           style={{
             display: "flex",
             justifyContent: "center",

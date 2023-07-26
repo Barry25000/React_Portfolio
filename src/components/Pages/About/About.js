@@ -24,39 +24,26 @@ export default function About() {
       <div style={{ width: "70%", margin: "0 auto" }}>
         <h1 id="about-me-title">About Me</h1>
         <p id="p-about">
-          Hello! I'm a full stack software developer with a background in
-          Electrical Engineering. I bring a diverse skill set and a passion for
-          pushing boundaries both in my professional and personal life.
+          Thanks for looking, I am a full stack software developer with a B.S.
+          in Electrical Engineering. I have a passion for pushing boundaries
+          both in my professional and personal life.
         </p>
         <p id="p-about">
-          With a B.S. in Electrical Engineering coupled with my work expierence,
-          I have a strong foundation in analytical thinking, problem-solving,
-          and attention to detail.{" "}
+          Having an Engineering background coupled with my extensive work
+          expierence, I have forged a strong foundation in analytical thinking,
+          problem-solving, and attention to detail.
         </p>
         <p id="p-about">
-          Outside of software development, I spend my time outdoors, wheather it
-          is camping, boating, skiing or exploring new areas, I am an
-          adrenaline-seeker looking to push my comfort zone. I thrive on
-          excitement and new challenges. My mindset of constantly seeking new
+          I am an avid outdoorsmen looking for my next adrenaline fix, my wife
+          and I love camping, boating, skiing and exploring new areas. I thrive
+          on excitement and new challenges. My mindset of constantly seeking new
           experiences along with thinking outside of the box, shapes my approach
-          with problem-solving.
+          to problem-solving.
         </p>
         <p id="p-about">
-          As a travel enthusiast, I am always eager to explore new places and
-          cultures. I believe that exposure to diverse environments fuels
-          creativity and fosters personal growth. I am particularly interested
-          in connecting with potential mentors, tech enthusiasts, and anyone
-          passionate about full stack development. Collaboration and learning
-          from others are essential to my professional development, and I'm
-          excited to connect with like-minded individuals who share my
-          enthusiasm for technology and its limitless possibilities.
-        </p>
-        <p id="p-about">
-          Let's embark on this journey together, whether it's discussing the
-          latest tech trends, exchanging ideas on full stack development, or
-          simply sharing stories from our adrenaline-fueled adventures. I'm
-          eager to connect, learn, and grow alongside fellow enthusiasts in the
-          software community.
+          I am eager to hone my developer skills as I enter into my next phase.
+          Working alongside established software developers, creating new ideas
+          and pushing the boundries of acceptable limits.
         </p>
       </div>
     </>
