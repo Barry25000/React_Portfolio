@@ -1,3 +1,4 @@
+import Big_Ben from "./images/Big_Ben.png";
 import recipe_voyage from "./images/Recipe_voyage.png";
 import whats_that_noise from "./images/Whats_that_noise.png";
 import tech_blog from "./images/Tech_blog.png";
@@ -5,6 +6,13 @@ import code_quiz from "./images/Code_quiz.png";
 import weather from "./images/Weather_dashboard.png";
 import work from "./images/Work_day.png";
 export const projects = [
+  {
+    projectTitle: "Big Ben Watch Emporium",
+    description: "A full-stack e-commerce web application for high end watches",
+    imageLink: Big_Ben,
+    liveLink: "https://rocky-retreat-21065-785cf39f6cd6.herokuapp.com/",
+    gitHub: "https://github.com/Barry25000/big-ben",
+  },
   {
     projectTitle: "Recipe Voyage",
     description:
