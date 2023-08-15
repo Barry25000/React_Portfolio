@@ -65,8 +65,8 @@ export default function Resume() {
             paddingRight: "80px",
           }}
         >
-          - HTML
-          <br></br>- API's
+          - API's
+          <br></br>- Express
           <br></br>- Node
           <br></br>- MySQL, Sequelize
           <br></br>- MongoDB, Mongoose
