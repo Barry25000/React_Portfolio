@@ -48,7 +48,7 @@ export const projects = [
   {
     projectTitle: "Weather Dashboard",
     description:
-      "Using third-party and server-side apis to bring clients live weather updates and future forecasts from anywhere in the world.",
+      "Using third-party and server-side API's to bring clients live weather updates and future forecasts from anywhere in the world.",
     imageLink: weather,
     liveLink: "https://barry25000.github.io/Server_Side_Api_challenge_6/",
     gitHub:
@@ -57,7 +57,7 @@ export const projects = [
   {
     projectTitle: "Work Day Scheduler",
     description:
-      "A calendar application that allows a user to save events for each hour of the work day. ",
+      "A calendar application that allows a user to schedule and save events for each hour of the work day. ",
     imageLink: work,
     liveLink: "https://barry25000.github.io/Work-Day-Scheduler/",
     gitHub: "https://github.com/Barry25000/Work-Day-Scheduler",

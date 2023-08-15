@@ -1,10 +1,13 @@
 import React from "react";
 import "./Navigation.css";
-import Box from "@mui/material/Box";
-import { Button } from "@mui/material";
-import useTab from "@mui/base/useTab";
 
-const pages = ["About", "Portfolio", "Contact", "Resume"];
+// following lines are not needed
+
+// import Box from "@mui/material/Box";
+// import { Button } from "@mui/material";
+// import useTab from "@mui/base/useTab";
+
+// const pages = ["About", "Portfolio", "Contact", "Resume"];
 
 function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
   return (
@@ -34,7 +37,7 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
           Portfolio
         </a>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <a
           id="nav-link"
           href="#Contact"
@@ -43,7 +46,7 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
         >
           Contact
         </a>
-      </li>
+      </li> */}
       <li className="nav-item">
         <a
           id="nav-link"

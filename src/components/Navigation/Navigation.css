@@ -13,12 +13,12 @@
 #nav-link.active {
   color: rgb(238, 110, 110);
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 }
 
 #nav-link {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   font-size: 30px;
 }
 
