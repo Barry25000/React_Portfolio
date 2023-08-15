@@ -32,7 +32,8 @@ export default function Resume() {
         >
           Front-End Proficiencies
         </h2>
-        <p id='p-resume'
+        <p
+          id="p-resume"
           style={{
             display: "flex",
             justifyContent: "center",
@@ -56,7 +57,8 @@ export default function Resume() {
         >
           Back-End Proficiencies
         </h2>
-        <p id='p-resume'
+        <p
+          id="p-resume"
           style={{
             display: "flex",
             justifyContent: "center",
@@ -66,10 +68,8 @@ export default function Resume() {
           - HTML
           <br></br>- API's
           <br></br>- Node
-          <br></br>- Express
           <br></br>- MySQL, Sequelize
           <br></br>- MongoDB, Mongoose
-          <br></br>- Bootstrap
           <br></br>- REST
           <br></br>- GraphQL
         </p>
