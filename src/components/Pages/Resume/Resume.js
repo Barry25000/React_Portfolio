@@ -1,7 +1,7 @@
 import React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import PdfFile from "../../../Resume.pdf";
+import PdfFile from "../../../resume.pdf";
 import "./Resume.css";
 
 export default function Resume() {
