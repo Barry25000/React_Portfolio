@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.ae2e37fc.css",
-    "main.js": "/React_Portfolio/static/js/main.fe8cdc9a.js",
+    "main.css": "/React_Portfolio/static/css/main.64aa1cf0.css",
+    "main.js": "/React_Portfolio/static/js/main.599e5c33.js",
     "static/media/Big_Ben.png": "/React_Portfolio/static/media/Big_Ben.ab3e299c0b4a52c14fe5.png",
     "static/media/Recipe_voyage.png": "/React_Portfolio/static/media/Recipe_voyage.c919fc3170719d608682.png",
+    "static/media/portfolio.png": "/React_Portfolio/static/media/portfolio.bf65513f00440448b6d3.png",
     "static/media/Whats_that_noise.png": "/React_Portfolio/static/media/Whats_that_noise.593181f1c975cb3165c8.png",
     "static/media/Me.jpg": "/React_Portfolio/static/media/Me.033e7e7c25c631c73d42.jpg",
     "static/media/resume.pdf": "/React_Portfolio/static/media/resume.62eff08223a9a126a442.pdf",
@@ -12,11 +13,11 @@
     "static/media/Weather_dashboard.png": "/React_Portfolio/static/media/Weather_dashboard.87021189d02a69da13d7.png",
     "static/media/Tech_blog.png": "/React_Portfolio/static/media/Tech_blog.ec5329e694933e1aaeca.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.ae2e37fc.css.map": "/React_Portfolio/static/css/main.ae2e37fc.css.map",
-    "main.fe8cdc9a.js.map": "/React_Portfolio/static/js/main.fe8cdc9a.js.map"
+    "main.64aa1cf0.css.map": "/React_Portfolio/static/css/main.64aa1cf0.css.map",
+    "main.599e5c33.js.map": "/React_Portfolio/static/js/main.599e5c33.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae2e37fc.css",
-    "static/js/main.fe8cdc9a.js"
+    "static/css/main.64aa1cf0.css",
+    "static/js/main.599e5c33.js"
   ]
 }
