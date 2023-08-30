@@ -23,6 +23,26 @@ export default function Resume() {
             Click Here to Download My Resume
           </Button>
         </a>
+
+
+        <a
+          href={PdfFile}
+          display="Barry Engler Resume"
+          target="_blank"
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            paddingTop: "25px",
+          }}
+          rel="noreferrer"
+        >
+          <Button id="view-resume-button" className="pop-on-hover">
+            Click Here to View My Resume
+          </Button>
+        </a>
+
+
+
         <h2
           style={{
             display: "flex",
