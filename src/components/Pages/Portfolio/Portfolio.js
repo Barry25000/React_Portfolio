@@ -40,6 +40,7 @@ export function Project({ project }) {
           <Button
             id="portfolio-button"
             className="pop-on-hover"
+            target="blank"
             href={project.gitHub}
             size="small"
           >
