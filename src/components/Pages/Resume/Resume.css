@@ -12,6 +12,10 @@
   }
 }
 
+#underline {
+  text-decoration: none;
+}
+
 .pop-on-hover {
   display: inline-block;
   vertical-align: middle;
@@ -45,6 +49,11 @@
 
 #view-resume-button {
   background-color: #714519;
+  color: floralwhite;
+}
+
+#view-resume-button:hover {
+  background-color: #8e643a;
   color: floralwhite;
 }
 

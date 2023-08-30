@@ -2,7 +2,7 @@
   display: flex;
   list-style: none;
   width: 40vw;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #nav-link:visited {
@@ -20,7 +20,8 @@
   display: flex;
   justify-content: flex-end;
   font-size: 30px;
-} 
+  text-decoration: none;
+}
 
 .nav-item {
   display: inline-block;
@@ -42,7 +43,6 @@
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
-
 
 @media (max-width: 589px) {
   .nav {

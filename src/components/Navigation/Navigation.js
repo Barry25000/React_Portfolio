@@ -13,7 +13,7 @@ function Navigation({ currentPage, setCurrentPage, handleCloseNavMenu }) {
   return (
     <ul
       className="nav nav-tabs"
-      style={{ paddingRight: "55px", paddingTop: "30px" }}
+      style={{ paddingRight: "10px", paddingTop: "15px" }}
     >
       <li className="nav-item">
         <a

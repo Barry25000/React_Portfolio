@@ -10,6 +10,7 @@ export default function Resume() {
       <div>
         <a
           href={PdfFile}
+          id="underline"
           download="Barry Engler Resume"
           target="_blank"
           style={{
@@ -24,9 +25,9 @@ export default function Resume() {
           </Button>
         </a>
 
-
         <a
           href={PdfFile}
+          id="underline"
           display="Barry Engler Resume"
           target="_blank"
           style={{
@@ -40,8 +41,6 @@ export default function Resume() {
             Click Here to View My Resume
           </Button>
         </a>
-
-
 
         <h2
           style={{

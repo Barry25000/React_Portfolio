@@ -14,10 +14,11 @@ export default function About() {
             height: "auto",
             width: "50%",
             margin: "0 auto",
-            paddingTop: "20px",
+            border: "5px solid black",
+            borderRadius: "500px",
           }}
           image={Me}
-          alt="About Me"
+          alt="Picture of Me"
         />
       </div>
 

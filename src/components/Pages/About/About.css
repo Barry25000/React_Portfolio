@@ -21,3 +21,8 @@
   color: black;
   font-size: 30px;
 }
+
+.image-container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
