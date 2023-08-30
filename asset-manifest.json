@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.93b66abe.css",
-    "main.js": "/React_Portfolio/static/js/main.2f8fc18a.js",
+    "main.css": "/React_Portfolio/static/css/main.32886df0.css",
+    "main.js": "/React_Portfolio/static/js/main.622ae13e.js",
     "static/media/Big_Ben.png": "/React_Portfolio/static/media/Big_Ben.ab3e299c0b4a52c14fe5.png",
     "static/media/Recipe_voyage.png": "/React_Portfolio/static/media/Recipe_voyage.c919fc3170719d608682.png",
     "static/media/portfolio.png": "/React_Portfolio/static/media/portfolio.bf65513f00440448b6d3.png",
@@ -13,11 +13,11 @@
     "static/media/Weather_dashboard.png": "/React_Portfolio/static/media/Weather_dashboard.87021189d02a69da13d7.png",
     "static/media/Tech_blog.png": "/React_Portfolio/static/media/Tech_blog.ec5329e694933e1aaeca.png",
     "index.html": "/React_Portfolio/index.html",
-    "main.93b66abe.css.map": "/React_Portfolio/static/css/main.93b66abe.css.map",
-    "main.2f8fc18a.js.map": "/React_Portfolio/static/js/main.2f8fc18a.js.map"
+    "main.32886df0.css.map": "/React_Portfolio/static/css/main.32886df0.css.map",
+    "main.622ae13e.js.map": "/React_Portfolio/static/js/main.622ae13e.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b66abe.css",
-    "static/js/main.2f8fc18a.js"
+    "static/css/main.32886df0.css",
+    "static/js/main.622ae13e.js"
   ]
 }
