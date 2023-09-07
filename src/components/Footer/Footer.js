@@ -36,7 +36,7 @@ const Footer = () => {
               (window.location.href = "https://github.com/Barry25000")
             }
           />
-           {/* <TwitterIcon
+          {/* <TwitterIcon
             id="icon"
             className="pop-on-hover"
             sx={{ fontSize: 50 }}
@@ -44,7 +44,7 @@ const Footer = () => {
               (window.location.href = "https://twitter.com/barryengler")
             }
           />  */}
-          
+
           <EmailIcon
             id="icon"
             className="pop-on-hover"
