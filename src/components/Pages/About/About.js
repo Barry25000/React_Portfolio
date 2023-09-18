@@ -31,7 +31,7 @@ export default function About() {
         </p>
         <p id="p-about">
           Having an Engineering background coupled with my extensive work
-          expierence, I have forged a strong foundation in analytical thinking,
+          experience, I have forged a strong foundation in analytical thinking,
           problem-solving, and attention to detail.
         </p>
         <p id="p-about">
