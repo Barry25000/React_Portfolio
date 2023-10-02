@@ -25,8 +25,7 @@ export default function About() {
       <div style={{ width: "70%", margin: "0 auto" }}>
         <h1 id="about-me-title">About Me</h1>
         <p id="p-about">
-          I am a full stack software developer with a B.S. in Electrical
-          Engineering. I have a passion for pushing boundaries both in my
+          I am a full stack software developer with a B.S. in Electrical Engineering and a certificate from Northwestern University for the completion of  their full stack bootcamp. I have a passion for pushing boundaries both in my
           professional and personal life.
         </p>
         <p id="p-about">
@@ -38,15 +37,16 @@ export default function About() {
           I am an avid outdoorsmen looking for my next adrenaline fix, my wife
           and I love camping, boating, skiing and exploring new areas. I thrive
           on excitement and new challenges. My mindset of constantly seeking new
-          experiences along with thinking outside of the box, shapes my approach
+          experiences along with thinking outside of the box, shaped my approach
           to problem-solving.
         </p>
         <p id="p-about">
-          I am eager to hone my developer skills as I enter into my next phase.
-          Working alongside established software developers, creating new ideas
-          and pushing the boundries of acceptable limits.
+          I am eager to build upon my experience gained from both being an
+          independent web developer and bootcamp, as I work alongside established software
+          developers, creating new ideas and pushing the boundries of acceptable
+          limits.
         </p>
-        <p id="p-about">Thanks for looking.</p>
+        <p id="p-about">Thanks for looking,<br/> Barry</p>
       </div>
     </>
   );
