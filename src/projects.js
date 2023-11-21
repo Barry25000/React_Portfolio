@@ -6,10 +6,12 @@ import code_quiz from "./images/Code_quiz.png";
 import weather from "./images/Weather_dashboard.png";
 import work from "./images/Work_day.png";
 import portfolio from "./images/portfolio.png";
+import link from "./images/link.png";
 export const projects = [
   {
     projectTitle: "Big Ben Watch Emporium",
-    description: "A full-stack e-commerce web application for high end watches, utilizing login and protected routes",
+    description:
+      "A full-stack e-commerce web application for high end watches, utilizing login and protected routes",
     imageLink: Big_Ben,
     liveLink: "https://rocky-retreat-21065-785cf39f6cd6.herokuapp.com/",
     gitHub: "https://github.com/Barry25000/big-ben",
@@ -70,5 +72,12 @@ export const projects = [
     imageLink: portfolio,
     liveLink: "https://barry25000.github.io/portfolio/",
     gitHub: "https://github.com/Barry25000/portfolio",
+  },
+  {
+    projectTitle: "Link in Bio",
+    description: "A plain vanilla HTML and CSS created Link in Bio.",
+    imageLink: link,
+    liveLink: "https://links-1zbn.onrender.com/",
+    gitHub: "https://github.com/Barry25000/links/tree/main",
   },
 ];
